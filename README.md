@@ -25,15 +25,15 @@ A simple and interactive Live Character Counter built using HTML, CSS, and JavaS
 
 The application updates the character count instantly while typing inside the textarea.
 
+# Live Link
+
+https://rafiamuhammadhussain.github.io/Js-Character-Counter/
+
 ## 📖 How It Works
 
 - User types inside the textarea
 - JavaScript function runs on every key press
 - Character length is calculated using:
-
-# Live Link
-
-https://rafiamuhammadhussain.github.io/Js-Character-Counter/
 
 
 ```javascript
