@@ -38,5 +38,10 @@ https://rafiamuhammadhussain.github.io/Js-Character-Counter/
 
 ```javascript
 text.length
+```
+
+---
+
+## 👩‍💻 Author
 
 Made with ❤️ by Rafia Muhammad Hussain
